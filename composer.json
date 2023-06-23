@@ -1,0 +1,18 @@
+{
+    "name": "felipeoreno/prova-2bim",
+    "description": "Prova do 2º Bimestre",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipe de Oliveira Renó",
+            "email": "felipereno2005@gmail.com"
+        }
+    ],
+    "require": {}
+}
